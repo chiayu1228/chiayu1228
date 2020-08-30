@@ -17,6 +17,10 @@ UI介面整體規劃、公司VI設計、排版各式文宣、活動banner設計<
 - **常用設計軟體** Photoshop、Illustrator、InDesign
 
 ## 近期作品
+### <a href="https://chiayu1228.github.io/shoppingfun_day/" target="_blank">樂趣買活動頁</a>
+- **負責項目** 網站視覺切版與製作<br>
+- **前端應用** HTML、CSS、RWD、jQuery不同日期顯示不同頁面與連結
+
 ### <a href="https://chiayu1228.github.io/4928water/" target="_blank">4928南庄水品牌網站</a>
 - **負責項目** 網站視覺動態UI與製作<br>
 - **前端應用** HTML、CSS、ScrollMagic、RWD
