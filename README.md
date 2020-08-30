@@ -6,8 +6,9 @@
 
 ## 設計技能
 ### 網頁設計
-HTML、CSS與jQuery、RWD應用、整體視覺動態規劃<br>
-常用編輯器：Brackets、VSCode<br>
+HTML、CSS與jQuery、RWD應用、整體視覺動態規劃，<br>
+在專案應用過SCSS、Bootstrap、Git版控<br>
+常用編輯器：VSCode、Brackets<br>
 常用UI軟體：Sketch、Axure
 ### 視覺設計
 UI介面整體規劃、公司VI設計、排版各式文宣、活動banner設計<br>
