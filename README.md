@@ -6,9 +6,12 @@
 
 ## 設計技能
 ### 網頁設計
-HTML、CSS與jQuery、RWD應用、整體視覺動態規劃
+HTML、CSS與jQuery、RWD應用、整體視覺動態規劃<br>
+常用編輯器：Brackets、VSCode<br>
+常用UI軟體：Sketch、Axure
 ### 視覺設計
-UI介面整體規劃、公司VI設計、排版各式文宣、活動banner設計
+UI介面整體規劃、公司VI設計、排版各式文宣、活動banner設計<br>
+常用軟體：Photoshop、Illustrator、InDesign
 
 <!--
 **chiayu1228/chiayu1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
