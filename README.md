@@ -1,4 +1,7 @@
-### Hi there 👋
+就讀設計相關科系畢業，有設計全職與接案的經驗，<br>
+擅長網頁設計、視覺設計，多媒體動畫與電繪插畫也有涉略。<br>
+近期專攻網頁視覺UI相關領域，已有三年餘，品牌網站、電商平台系統皆有實際經驗！<br>
+且了解App設計基本規範，Sketch和Zeplin也有所接觸。<br>
 
 <!--
 **chiayu1228/chiayu1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
