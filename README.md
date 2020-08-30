@@ -5,14 +5,15 @@
 且了解App設計基本規範，Sketch和Zeplin也有所接觸。<br>
 
 ## 設計技能
-### 網頁設計
+### ✔ 網頁設計
 HTML、CSS與jQuery、RWD應用、整體視覺動態規劃，<br>
 實際應用過SCSS、Bootstrap、Git版控<br><br>
-常用編輯器：VSCode、Brackets<br>
-常用UI軟體：Sketch、Axure
-### 視覺設計
+**常用編輯器：** VSCode、Brackets<br>
+**常用UI軟體：** Sketch、Axure
+
+### ✔ 視覺設計
 UI介面整體規劃、公司VI設計、排版各式文宣、活動banner設計<br><br>
-常用軟體：Photoshop、Illustrator、InDesign
+**常用設計軟體：** Photoshop、Illustrator、InDesign
 
 <!--
 **chiayu1228/chiayu1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
