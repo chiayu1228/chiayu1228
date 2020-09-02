@@ -27,6 +27,10 @@ UI介面整體規劃、公司VI設計、排版各式文宣、活動banner設計<
 - **前端應用** HTML、CSS、ScrollMagic、RWD
 - **專案特點** 電腦版與手機版有不同的scroll效果
 
+### <a href="https://chiayu1228.github.io/goh/2018" target="_blank">2018 勵馨公益年菜</a>
+- **負責項目** 網站視覺動態UI與製作<br>
+- **前端應用** HTML、CSS、jQuery
+
 <!--
 **chiayu1228/chiayu1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
