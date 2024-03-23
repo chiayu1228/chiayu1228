@@ -17,6 +17,16 @@ UI介面整體規劃、公司VI設計、排版各式文宣、活動banner設計<
 - **常用設計軟體** Photoshop、Illustrator、InDesign
 
 ## 近期作品
+### <a href="https://chiayu1228.github.io/careteacher/login" target="_blank">補教平台教師入口</a>
+- **負責項目** APP視覺UI與Prototype<br>
+- **前端應用** HTML、CSS、Semantic UI
+- **專案特點** 製作動態Prototype
+
+### <a href="https://chiayu1228.github.io/lineadqnr/qnr.html" target="_blank">2021 LINE活動行銷問卷</a>
+- **負責項目** 網站視覺動態UI與製作<br>
+- **前端應用** HTML、CSS、jQuery
+- **專案特點** 串接google表單
+
 ### <a href="https://chiayu1228.github.io/shoppingfun_day/" target="_blank">樂趣買活動頁</a>
 - **負責項目** 網站視覺切版與製作<br>
 - **前端應用** HTML、CSS、RWD、jQuery
